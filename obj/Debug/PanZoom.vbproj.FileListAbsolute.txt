@@ -1,0 +1,9 @@
+D:\CloudStation\Programmazione\PanZoom\PanZoom\bin\Debug\PanZoom.exe
+D:\CloudStation\Programmazione\PanZoom\PanZoom\bin\Debug\PanZoom.pdb
+D:\CloudStation\Programmazione\PanZoom\PanZoom\bin\Debug\PanZoom.xml
+D:\CloudStation\Programmazione\PanZoom\PanZoom\obj\Debug\PanZoom.Form1.resources
+D:\CloudStation\Programmazione\PanZoom\PanZoom\obj\Debug\PanZoom.Resources.resources
+D:\CloudStation\Programmazione\PanZoom\PanZoom\obj\Debug\PanZoom.vbproj.GenerateResource.Cache
+D:\CloudStation\Programmazione\PanZoom\PanZoom\obj\Debug\PanZoom.exe
+D:\CloudStation\Programmazione\PanZoom\PanZoom\obj\Debug\PanZoom.xml
+D:\CloudStation\Programmazione\PanZoom\PanZoom\obj\Debug\PanZoom.pdb
